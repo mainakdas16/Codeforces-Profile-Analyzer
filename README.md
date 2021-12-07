@@ -1,5 +1,6 @@
 # Codeforces-Profile-Analyzer
-The site is currently hosted at https://mainakdas16.github.io/Codeforces-Profile-Analyzer/
+The site is currently hosted at https://mainakdas16.github.io/Codeforces-Profile-Analyzer/ 
+also at https://codeforcesprofileanalyzer.netlify.app
 
 # Analyze and compare codeforces user profiles. 
 Compare max/min rating, number of contests participated, max positive rating change, max negative rating change, best position in contest, worst position in contest, number of total solved problem, levels of solved problems, category or tags of solved problems.
